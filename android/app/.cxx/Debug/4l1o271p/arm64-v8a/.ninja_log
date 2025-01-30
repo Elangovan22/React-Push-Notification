@@ -1,0 +1,8 @@
+# ninja log v5
+5024	5282	1738262997308647952	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/build/intermediates/cxx/Debug/4l1o271p/obj/arm64-v8a/libappmodules.so	bcc42e7bd3a7ecf6
+0	5024	1738262997045777282	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d64fcd5a3b723cdd
+0	4792	1738262996807418766	CMakeFiles/appmodules.dir/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	1967c0319600fdab
+66	254	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/.cxx/Debug/4l1o271p/arm64-v8a/CMakeFiles/cmake.verify_globs	c11b6bf407c3154a
+0	6	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/.cxx/Debug/4l1o271p/arm64-v8a/CMakeFiles/cmake.verify_globs	c11b6bf407c3154a
+30	2722	1738263480559382864	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d64fcd5a3b723cdd
+2722	3111	1738263480918410611	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/build/intermediates/cxx/Debug/4l1o271p/obj/arm64-v8a/libappmodules.so	bcc42e7bd3a7ecf6

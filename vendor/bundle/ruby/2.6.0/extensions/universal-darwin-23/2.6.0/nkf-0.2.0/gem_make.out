@@ -1,0 +1,17 @@
+current directory: /Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250127-15864-156t4bd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: search path '/AppleInternal/Library/BuildRoots/98ed8ad3-3356-11ee-9b53-aead88ae2785/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250127-15864-fo6nt

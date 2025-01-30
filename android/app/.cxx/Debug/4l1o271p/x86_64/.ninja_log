@@ -1,0 +1,5 @@
+# ninja log v5
+1	10	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/.cxx/Debug/4l1o271p/x86_64/CMakeFiles/cmake.verify_globs	7ba21ad86b2f9279
+0	1734	1738263161860046306	CMakeFiles/appmodules.dir/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f084253bac9c6668
+0	1954	1738263162085532522	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cbe11063ae71fd03
+1954	2029	1738263162166453406	/Users/elangovaneaaswaramurty/Documents/GitHub/React-Push-Notification/android/app/build/intermediates/cxx/Debug/4l1o271p/obj/x86_64/libappmodules.so	5024a8cbee92b320
