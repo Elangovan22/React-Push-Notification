@@ -1,1 +1,0 @@
-/Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/android/app/build/intermediates/cxx/RelWithDebInfo/252x5g6v/obj/x86

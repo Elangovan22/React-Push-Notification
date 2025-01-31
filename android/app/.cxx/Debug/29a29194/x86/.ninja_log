@@ -1,9 +1,0 @@
-# ninja log v5
-1460	1776	1738260980618449145	/Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/android/app/build/intermediates/cxx/Debug/29a29194/obj/x86/libappmodules.so	468d32793d3695fc
-14	1460	1738260980296306717	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a9482d0af3cfc986
-15	1384	1738260980221828176	CMakeFiles/appmodules.dir/Users/elangovaneaaswaramurty/Documents/GitHub/React_Native_Push/PushNotificationApp/MyNewProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	e89d53f91fe7887
-0	9	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/android/app/.cxx/Debug/29a29194/x86/CMakeFiles/cmake.verify_globs	7a9536701524b8a3
-0	9	0	clean	d7d4dfc1d8590143
-11	88	1738261057174846657	build.ninja	8bdb8d9b1b5e1f3f
-0	6	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/android/app/.cxx/Debug/29a29194/x86/CMakeFiles/cmake.verify_globs	7a9536701524b8a3
-1	8	0	/Users/elangovaneaaswaramurty/Documents/GitHub/React Native Push/PushNotificationApp/MyNewProject/android/app/.cxx/Debug/29a29194/x86/CMakeFiles/cmake.verify_globs	7a9536701524b8a3
